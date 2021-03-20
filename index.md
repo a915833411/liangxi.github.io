@@ -1,6 +1,6 @@
-### 欢迎来到我的主页
+欢迎来到我的主页
 
-### Markdown
+### 简介
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
