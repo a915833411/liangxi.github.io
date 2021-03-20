@@ -13,19 +13,6 @@
 
   ![u=588707722,3736100659 fm=26 gp=0](https://user-images.githubusercontent.com/81002672/111862129-30adf400-898e-11eb-8cf2-b76e29154cc9.png)
 
-**Bold** and _Italic_ and `Code` text
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a915833411/liangxi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -34,7 +21,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
       <p><b>返回武汉工作</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_1175(20210312-112821).JPG)" width="100%">      
+      <img src="/IMG_1175(20210312-112821).JPG" width="100%">      
     </td>
   </tr>
 </table>
