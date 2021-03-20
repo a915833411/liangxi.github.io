@@ -10,11 +10,9 @@
 - Tel：15997974848（备用电话：19989102767）
 - 经济状况：混吃等死
 - 感情状态：别想了有女朋友
+![u=588707722,3736100659 fm=26 gp=0](https://user-images.githubusercontent.com/81002672/111862129-30adf400-898e-11eb-8cf2-b76e29154cc9.png)
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![u=588707722,3736100659&fm=26&gp=0.png](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
