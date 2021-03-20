@@ -29,14 +29,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>未来意向</h1>
+      <p><b>选择考研</b></p>
+      <p><b>返回武汉工作</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/IMG_1175(20210312-112821).JPG" width="100%">      
     </td>
   </tr>
 </table>
