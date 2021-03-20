@@ -1,4 +1,4 @@
-欢迎来到我的主页
+Everything that kills me makes me feel alive
 
 ### 简介
 梁熙，湖北咸宁人，出生于2000年5月24日一个风雨交加的夜晚。
