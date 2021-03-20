@@ -1,11 +1,8 @@
 欢迎来到我的主页
 
 ### 简介
+梁熙，湖北咸宁人，出生于2000年5月24日一个风雨交加的夜晚。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
